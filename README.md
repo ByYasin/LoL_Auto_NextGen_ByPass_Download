@@ -5,9 +5,7 @@ League of Legends extend script ban time.  Detailed automatic log cleaner.
 ------------
 [TR] Bu işlev yasaklanmanıza engel olamaz sadece yasaklanma sürenizi uzatır her oyun sonrası oyunu kapatıp uygulamanız ve oyuna tekrar girmenizi şiddetle öneririm. ByPass sonrası oyunu açtığınızda launcher minik bir dosya doğrulaması yapabilir bu normaldir.
 ------------
-The following files must be in the same folder otherwise they will not be opened.
-
-![İmage](https://memoryhackers.org/attachments/klasor-png.71360/)
+The files must be in the same folder or they won't open!
 
 Details ;
 
