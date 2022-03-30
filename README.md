@@ -7,6 +7,8 @@ League of Legends extend script ban time.  Detailed automatic log cleaner.
 ------------
 The following files must be in the same folder otherwise they will not be opened.
 
+https://memoryhackers.org/attachments/klasor-png.71360/
+
 Details ;
 
 https://memoryhackers.org/konular/league-of-legends-auto-nextgen-bypass-riot-garena-script-ban-surenizi-uzatin-01-01-2022.203224/
