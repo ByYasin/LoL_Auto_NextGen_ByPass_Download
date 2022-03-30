@@ -7,7 +7,7 @@ League of Legends extend script ban time.  Detailed automatic log cleaner.
 ------------
 The following files must be in the same folder otherwise they will not be opened.
 
-https://memoryhackers.org/attachments/klasor-png.71360/
+![İmage](https://memoryhackers.org/attachments/klasor-png.71360/)
 
 Details ;
 
